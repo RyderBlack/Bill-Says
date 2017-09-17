@@ -97,12 +97,9 @@
 		20CA47D71F6A82150099C7EE /* Bill Says */ = {
 			isa = PBXGroup;
 			children = (
-				20CA47D81F6A82150099C7EE /* AppDelegate.swift */,
+				20CA48061F6A8AC50099C7EE /* Supporting Files */,
 				20CA47DA1F6A82150099C7EE /* ViewController.swift */,
 				20CA47DC1F6A82150099C7EE /* Main.storyboard */,
-				20CA47DF1F6A82150099C7EE /* Assets.xcassets */,
-				20CA47E11F6A82150099C7EE /* LaunchScreen.storyboard */,
-				20CA47E41F6A82150099C7EE /* Info.plist */,
 			);
 			path = "Bill Says";
 			sourceTree = "<group>";
@@ -123,6 +120,17 @@
 				20CA47FA1F6A82150099C7EE /* Info.plist */,
 			);
 			path = "Bill SaysUITests";
+			sourceTree = "<group>";
+		};
+		20CA48061F6A8AC50099C7EE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				20CA47D81F6A82150099C7EE /* AppDelegate.swift */,
+				20CA47DF1F6A82150099C7EE /* Assets.xcassets */,
+				20CA47E11F6A82150099C7EE /* LaunchScreen.storyboard */,
+				20CA47E41F6A82150099C7EE /* Info.plist */,
+			);
+			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
